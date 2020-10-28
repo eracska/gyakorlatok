@@ -8,6 +8,8 @@
 
 # 4. keresd meg a tomb legnagyobb elemet (es a legkisebb elemet egy ciklusban)
 
-# 5. keresd meg a tomb masodik legkisebb elemet es ird ki ot magat es h hanyadik helyen van 
+# 5. olvass be egy szamot es ird ki, hogy hanyadik helyen van a szam a tombben, ha nincs benne akkor ird ki h "nincs benne"
 
-# 6. olvass be egy szamot es ird ki, hogy hanyadik helyen van a szam a tombben, ha nincs benne akkor ird ki h "nincs benne"
+# 6. keresd meg a tomb masodik legkisebb elemet es ird ki ot magat es h hanyadik helyen van 
+
+

@@ -2,6 +2,12 @@
 
 # 1. hozz letre egy 10 elemu tombot veletlen szamokkal 1-10 ig
 
+myarray = []
+for i in 1..10
+	myarray [i] = rand (1..10)
+	puts myarray
+end
+
 # 2. ird ki a tomb elemeit egyenkent, egy sorba, space-vel elvalasztva
 
 # 3. ird ki a tomb elemeinek osszeget es szamtani kozeparanyosat (2 tizedes pontossaggal)
